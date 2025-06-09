@@ -1,0 +1,18 @@
+{
+  "http://192.168.1.102/moodle/grade/report/overview/index.php": {
+    "click_hash": 2122138460138123286,
+    "last_n_clicks": 100
+  },
+  "http://192.168.1.102/moodle/login/index.php": {
+    "click_hash": -1246353158853714092,
+    "last_n_clicks": 100
+  },
+  "http://192.168.1.102/moodle/user/profile.php?id=2": {
+    "click_hash": 5488508315381744487,
+    "last_n_clicks": 100
+  },
+  "http://192.168.1.102/moodle/admin/tool/dataprivacy/summary.php": {
+    "click_hash": -2382618225211267690,
+    "last_n_clicks": 100
+  }
+}

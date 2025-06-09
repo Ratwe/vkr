@@ -1,0 +1,18 @@
+{
+  "http://192.168.1.102/moodle/login/index.php": {
+    "click_hash": 4463375336434281356,
+    "last_n_clicks": 1000
+  },
+  "http://192.168.1.102/moodle/my/": {
+    "click_hash": -975363726499026447,
+    "last_n_clicks": 1000
+  },
+  "http://192.168.1.102/moodle/mod/forum/view.php?id=1": {
+    "click_hash": -1278455672871230614,
+    "last_n_clicks": 1000
+  },
+  "http://192.168.1.102/moodle/course/section.php?id=1": {
+    "click_hash": -3402737151743798180,
+    "last_n_clicks": 1000
+  }
+}

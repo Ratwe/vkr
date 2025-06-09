@@ -1,0 +1,142 @@
+[
+  {
+    "relX": 0.52558139534884,
+    "relY": 0.19447640966628,
+    "absX": 791,
+    "absY": 169,
+    "url": "http://192.168.1.102/moodle/grade/report/overview/index.php",
+    "title": "Grades - Admin User | Диплом",
+    "pageWidth": 1505,
+    "pageHeight": 869
+  },
+  {
+    "relX": 0.51960132890365,
+    "relY": 0.23705408515535,
+    "absX": 782,
+    "absY": 206,
+    "url": "http://192.168.1.102/moodle/grade/report/overview/index.php",
+    "title": "Grades - Admin User | Диплом",
+    "pageWidth": 1505,
+    "pageHeight": 869
+  },
+  {
+    "relX": 0.41587802313354,
+    "relY": 0.38090128755365,
+    "absX": 791,
+    "absY": 355,
+    "url": "http://192.168.1.102/moodle/login/index.php",
+    "title": "Log in to the site | Диплом",
+    "pageWidth": 1902,
+    "pageHeight": 932
+  },
+  {
+    "relX": 0.057142857142857,
+    "relY": 0.16915995397008,
+    "absX": 86,
+    "absY": 147,
+    "url": "http://192.168.1.102/moodle/grade/report/overview/index.php",
+    "title": "Grades - Admin User | Диплом",
+    "pageWidth": 1505,
+    "pageHeight": 869
+  },
+  {
+    "relX": 0.6358803986711,
+    "relY": 0.29090909090909,
+    "absX": 957,
+    "absY": 352,
+    "url": "http://192.168.1.102/moodle/user/profile.php?id=2",
+    "title": "Admin User: Public profile | Диплом",
+    "pageWidth": 1505,
+    "pageHeight": 1210
+  },
+  {
+    "relX": 0.61993355481728,
+    "relY": 0.30413223140496,
+    "absX": 933,
+    "absY": 368,
+    "url": "http://192.168.1.102/moodle/user/profile.php?id=2",
+    "title": "Admin User: Public profile | Диплом",
+    "pageWidth": 1505,
+    "pageHeight": 1210
+  },
+  {
+    "relX": 0.30564784053156,
+    "relY": 0.48264462809917,
+    "absX": 460,
+    "absY": 584,
+    "url": "http://192.168.1.102/moodle/user/profile.php?id=2",
+    "title": "Admin User: Public profile | Диплом",
+    "pageWidth": 1505,
+    "pageHeight": 1210
+  },
+  {
+    "relX": 0.61063122923588,
+    "relY": 0.08595041322314,
+    "absX": 919,
+    "absY": 104,
+    "url": "http://192.168.1.102/moodle/user/profile.php?id=2",
+    "title": "Admin User: Public profile | Диплом",
+    "pageWidth": 1505,
+    "pageHeight": 1210
+  },
+  {
+    "relX": 0.54352159468439,
+    "relY": 0.17107438016529,
+    "absX": 818,
+    "absY": 207,
+    "url": "http://192.168.1.102/moodle/user/profile.php?id=2",
+    "title": "Admin User: Public profile | Диплом",
+    "pageWidth": 1505,
+    "pageHeight": 1210
+  },
+  {
+    "relX": 0.38803986710963,
+    "relY": 0.16528925619835,
+    "absX": 584,
+    "absY": 200,
+    "url": "http://192.168.1.102/moodle/user/profile.php?id=2",
+    "title": "Admin User: Public profile | Диплом",
+    "pageWidth": 1505,
+    "pageHeight": 1210
+  },
+  {
+    "relX": 0.45714285714286,
+    "relY": 0.23543123543124,
+    "absX": 688,
+    "absY": 404,
+    "url": "http://192.168.1.102/moodle/admin/tool/dataprivacy/summary.php",
+    "title": "Registry configuration summary | Диплом",
+    "pageWidth": 1505,
+    "pageHeight": 1716
+  },
+  {
+    "relX": 0.52691029900332,
+    "relY": 0.41025641025641,
+    "absX": 793,
+    "absY": 704,
+    "url": "http://192.168.1.102/moodle/admin/tool/dataprivacy/summary.php",
+    "title": "Registry configuration summary | Диплом",
+    "pageWidth": 1505,
+    "pageHeight": 1716
+  },
+  {
+    "relX": 0.90099667774086,
+    "relY": 0.29778554778555,
+    "absX": 1356,
+    "absY": 511,
+    "url": "http://192.168.1.102/moodle/admin/tool/dataprivacy/summary.php",
+    "title": "Registry configuration summary | Диплом",
+    "pageWidth": 1505,
+    "pageHeight": 1716
+  },
+  {
+    "relX": 0.41587802313354,
+    "relY": 0.38090128755365,
+    "absX": 791,
+    "absY": 355,
+    "url": "http://192.168.1.102/moodle/login/index.php",
+    "title": "Log in to the site | Диплом",
+    "pageWidth": 1902,
+    "pageHeight": 932
+  }
+]

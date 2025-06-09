@@ -1,0 +1,66 @@
+Array
+(
+    [relX] => 0.41570073761855
+    [relY] => 0.37400228050171
+    [absX] => 789
+    [absY] => 328
+    [url] => http://192.168.1.102/moodle/login/index.php
+    [title] => Log in to the site | Диплом
+    [pageWidth] => 1898
+    [pageHeight] => 877
+)
+Array
+(
+    [relX] => 0.33616569304302
+    [relY] => 0.23970432946146
+    [absX] => 633
+    [absY] => 454
+    [url] => http://192.168.1.102/moodle/my/
+    [title] => Dashboard | Диплом
+    [pageWidth] => 1883
+    [pageHeight] => 1894
+)
+Array
+(
+    [relX] => 0.66224110462029
+    [relY] => 0.31256599788807
+    [absX] => 1247
+    [absY] => 592
+    [url] => http://192.168.1.102/moodle/my/
+    [title] => Dashboard | Диплом
+    [pageWidth] => 1883
+    [pageHeight] => 1894
+)
+Array
+(
+    [relX] => 0.49867233138609
+    [relY] => 0.35269271383316
+    [absX] => 939
+    [absY] => 668
+    [url] => http://192.168.1.102/moodle/my/
+    [title] => Dashboard | Диплом
+    [pageWidth] => 1883
+    [pageHeight] => 1894
+)
+Array
+(
+    [relX] => 0.60860329261816
+    [relY] => 0.10190073917635
+    [absX] => 1146
+    [absY] => 193
+    [url] => http://192.168.1.102/moodle/my/
+    [title] => Dashboard | Диплом
+    [pageWidth] => 1883
+    [pageHeight] => 1894
+)
+Array
+(
+    [relX] => 0.51354221986192
+    [relY] => 0.32893347412883
+    [absX] => 967
+    [absY] => 623
+    [url] => http://192.168.1.102/moodle/my/
+    [title] => Dashboard | Диплом
+    [pageWidth] => 1883
+    [pageHeight] => 1894
+)
